@@ -4,7 +4,7 @@ Here's a sample professional and engaging `README.md` template for your GitHub p
 
 ---
 
-# 👋 **Hi, I'm [Your Name]!**  
+# 👋 **Hi, I'm [Kaushal]!**  
 🚀 _Turning Ideas into Reality with Code_  
 
 ## **About Me**  
