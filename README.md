@@ -1,8 +1,4 @@
-### **README for Your GitHub Profile**
 
-Here's a sample professional and engaging `README.md` template for your GitHub profile that showcases your skills, projects, and interests effectively.
-
----
 
 # 👋 **Hi, I'm Kaushal!**  
 🚀 _Turning Ideas into Reality with Code_  
