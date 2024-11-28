@@ -67,8 +67,8 @@ When I’m not coding, you’ll find me planning **bike trips**, DJing, or explo
 ---
 
 ## **📬 Let's Connect**  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/kaushal-chandratre )
+- **LinkedIn**: [Kaushal-in](https://www.linkedin.com/in/kaushal-chandratre )
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **GitHub**: [your-username](https://github.com/Kaushal-1) 
+- **GitHub**: [Kaushal-1](https://github.com/Kaushal-1) 
 
 Feel free to explore my projects and connect. I’m always open to collaboration and exciting new ideas!  
